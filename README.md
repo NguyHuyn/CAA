@@ -2,7 +2,7 @@
  ## Semester project for the Cloud Advanced Analytics class, 
  ### 2023 HEC Lausanne
  
- #### Huyinh Nguyen
+ #### Huynh Nguyen
  #### Michaela Píchová
  #### Stergios Konstantinidis
 
